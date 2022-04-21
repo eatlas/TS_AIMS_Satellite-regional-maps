@@ -16,7 +16,7 @@ is for test printing on an A4 printer to check if the label fonts are readable.
 
 ![Eastern map](preview/Torres-Strait-Eastern-Region-Map.jpg)
 
-![Southern map](preview/Torres-Strait-Eastern-Region-Map.jpg)
+![Southern map](preview/Torres-Strait-Southern-Region-Map.jpg)
 
 ## High resolution printable maps
 [Download high resolution printable maps](https://nextcloud.eatlas.org.au/apps/sharealias/a/ts-aims-satellite-regional-maps)
